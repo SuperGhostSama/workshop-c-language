@@ -17,7 +17,7 @@ int main()
         printf("\n il fait chaud ");
     }
 
-    else if(30<=Celsius && Celsius<50)
+    else if(30<=Celsius)
     {
         printf("\n il fait tres chaud");
     }
