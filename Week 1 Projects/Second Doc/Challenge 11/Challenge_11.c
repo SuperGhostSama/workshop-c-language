@@ -9,37 +9,37 @@ int main ()
    switch(r) {
    	    case 0 :
 		
-   	 	printf("Lundi ",r);
+   	 	printf("Lundi ");
 	    break;
 	
 	    case 1 :
 		
-   	 	printf("Mardi ",r);
+   	 	printf("Mardi ");
 	    break;
 			
 		 case 2 :
 		
-   	 	printf("Mercredi ",r);
+   	 	printf("Mercredi ");
 	    break;
 		
 		 case 3 :
 		
-   	 	printf("Jeudi ",r);
+   	 	printf("Jeudi ");
 	    break;
 		
 		 case 4 :
 		
-   	 	printf("Vendredi ",r);
+   	 	printf("Vendredi ");
 	    break;
 		
 		 case 5 :
 		
-   	 	printf("Samedi ",r);
+   	 	printf("Samedi ");
 	    break;
 		
 		 case 6 :
 		
-   	 	printf("Dimanche ",r);
+   	 	printf("Dimanche ");
 	    break;
 	}
 return 0;	
